@@ -9,4 +9,5 @@
         }
     }
 
-    
+    array += array.splice(2, 0, 6);
+    console.log(array);
